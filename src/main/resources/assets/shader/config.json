@@ -1,0 +1,46 @@
+{
+  "light": {
+    "vertex": "%n",
+    "fragment": "%n"
+  },
+
+  "lightMultiple": {
+    "vertex": "%n",
+    "fragment": "%n"
+  },
+
+  "texture": {
+    "vertex": "%n",
+    "fragment": "%n"
+  },
+
+  "bloom.filter": {
+    "vertex": "textureStatic",
+    "fragment": "bloom/filter"
+  },
+
+  "bloom.combine": {
+    "vertex": "textureStatic",
+    "fragment": "bloom/combine"
+  },
+
+  "blur3": {
+    "vertex": "textureStatic",
+    "fragment": "%n"
+  },
+
+  "blur5": {
+    "vertex": "textureStatic",
+    "fragment": "%n"
+  },
+
+  "blur13": {
+    "vertex": "textureStatic",
+    "fragment": "%n"
+  },
+
+  "blur": {
+    "vertex": "textureStatic",
+    "fragment": "%n"
+  }
+}
